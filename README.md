@@ -11,10 +11,8 @@
 功能:
 项目有用户和管理两个端,分普通用户和管理人员
 
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240411173251.png)
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240411173330.png)
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240411173424.png)
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240411173514.png)
+![image](https://github.com/MaCa-BaKa/lvxingsheInifoManagementSystem/assets/102128690/cd56952e-9ef9-49d8-a085-141b64ead1ad)
+
 
 
 需要本系统联系vx: MaKaBaca0
